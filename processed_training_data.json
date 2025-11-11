@@ -1,0 +1,44 @@
+[
+  {
+    "id": "answer_1",
+    "question": "Just when the caterpillar thought the world was over, it became a butterfly.",
+    "answer": "The Samkhya school talks of and . The , symbolised by the . Our blind is the cocoon we must break using .",
+    "underlines": [
+      {
+        "text": "purusha",
+        "relevancy": 7,
+        "usefulness": 10
+      },
+      {
+        "text": "prakriti",
+        "relevancy": 7,
+        "usefulness": 8
+      },
+      {
+        "text": "end is never really the end",
+        "relevancy": 6,
+        "usefulness": 4
+      },
+      {
+        "text": "caterpillar transforming into a butterfly",
+        "relevancy": 4,
+        "usefulness": 7
+      },
+      {
+        "text": "ignorance",
+        "relevancy": 3,
+        "usefulness": 9
+      },
+      {
+        "text": "meditation",
+        "relevancy": 4,
+        "usefulness": 7
+      }
+    ],
+    "max_marks": 10,
+    "evaluation": {
+      "final_score": 6.1,
+      "feedback": "Good attempt with some relevant underlining, though consistency could improve."
+    }
+  }
+]
